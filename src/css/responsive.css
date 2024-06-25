@@ -1,0 +1,23 @@
+@media (max-width: 554px){
+    .container-informacoes{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .container-texto{
+        text-align: center;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    
+    .container-formulario{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        border-radius: 10px;
+    }
+}
